@@ -1,5 +1,4 @@
-http://react-redux-productapp.surge.sh/products
-
+https://react-redux-productapp.surge.sh/
 
 ### npm install
 
